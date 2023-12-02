@@ -1,0 +1,6 @@
+gpt4all==2.0.2
+langchain==0.0.340
+pgvector==0.2.4
+psycopg2-binary==2.9.9
+
+
