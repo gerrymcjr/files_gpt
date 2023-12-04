@@ -19,7 +19,7 @@ just be mindful of the required RAM as it will be slow the bigger the LLM you ar
 
 
 P.S even though i use an LLM that only needs 8GB RAM it would still take at least 5 minutes to generate a response, but its good enough for me as i am not in a hurry,
-and its more of a hubby than a necessity. Just wanted to share :-)
+and its more of a hobby than a necessity. Just wanted to share :-)
 
 and also make sure to remove double quotes from the text file you wish to summarise or add to the vectordb
 
